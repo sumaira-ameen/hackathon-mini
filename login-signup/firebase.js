@@ -7,7 +7,7 @@ signInWithPopup} from  'https://www.gstatic.com/firebasejs/11.0.1/firebase-auth.
 import { getFirestore, collection, addDoc } from "https://www.gstatic.com/firebasejs/11.0.1/firebase-firestore.js"
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBh45P7aPCs5fR2nSTgEcz9GPCRMnSHOdI",
+  apiKey: "",
   authDomain: "hackathon-coranu.firebaseapp.com",
   projectId: "hackathon-coranu",
   storageBucket: "hackathon-coranu.firebasestorage.app",
